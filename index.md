@@ -24,11 +24,11 @@ Here's some words about the book _One Hundred Years..._.
 
 # Links
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 
-[You're **really, really** going to want to see this.](www.dailykitten.com)
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
-#### The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
@@ -36,8 +36,8 @@ Well, do I have [the website for you][another fun place]!
 
 # Images
 
-[a fun place]: www.zombo.com
-[another fun place]: www.stumbleupon.com
+[a fun place]: https://www.zombo.com
+[another fun place]: https://www.stumbleupon.com
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -79,13 +79,14 @@ I read this interesting quote the other day:
 * Dahlia (_Coreopsideae Dahlia_)
 
 * Calculus
- * A professor
- * Has no hair
- *  Often wears green
+  * A professor
+  * Has no hair
+  * Often wears green
+
 * Castafiore
- * An opera singer
- * Has white hair
- * Is possibly mentally unwell
+  * An opera singer
+  * Has white hair
+  * Is possibly mentally unwell
 
 1. Cut the cheese
 
@@ -112,4 +113,3 @@ If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
-
