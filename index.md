@@ -1,4 +1,4 @@
-## <Erin Willman> web-tehtävä
+## Erin Willman web-tehtävä
 
 ## Italics and Bold
 
